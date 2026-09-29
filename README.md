@@ -49,3 +49,7 @@ Las pruebas de navegador usan Playwright y un proveedor de datos local para ser 
 ## Límites del prototipo
 
 Los artículos de DummyJSON son ficticios, breves y están en inglés. No incluyen imágenes ni se almacenan en este proyecto. El formulario de contacto valida y confirma la entrada, pero no envía correos ni guarda mensajes.
+
+## Licencia
+
+El código de este proyecto se distribuye bajo la [licencia MIT](LICENSE).
